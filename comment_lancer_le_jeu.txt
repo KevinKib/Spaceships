@@ -1,0 +1,9 @@
+NOTE IMPORTANTE SUR LE LANCEMENT DU JEU
+
+Le lancement du jeu s'effectue depuis le fichier Spaceships.py. Les autres fichiers (levels.py, instances.py, sprites.py, etc) 
+ne sont pas prévus pour lancer le programme ! 
+
+Il est nécessaire de l'exécuter sous Python 3 (nous recommandons d'utiliser la dernière version sortie à ce jour (Python 3.6.1)), et 
+le module pygame doit être installé et à jour. Le fonctionnement correct du programme n'est garanti que sous Windows 7 ou plus. Un 
+processeur Intel i3 ou équivalent est requis pour jouer dans de bonnes conditions. De la même manière, la résolution de l'écran doit 
+être suffisante pour afficher l'intégralité de l'écran de jeu.
